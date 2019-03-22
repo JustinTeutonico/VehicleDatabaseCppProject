@@ -1,0 +1,43 @@
+This is the log for the Vehicle Checkout Program.
+Total vehicles: 3
+-------------------------------------
+
+ID: 8675309
+Purpose: Company
+Driver: JoJo
+Date added: 10 / 10 / 2010
+Mileage: 100
+Checkout status: Checked in
+Contents:
+Unset!
+Miles driven: 28900
+Fuel cost: $ 100
+Purpose of trip: ToVictoryAndBeyond
+-------------------------------------
+
+ID: 11
+Purpose: Personal
+Driver: MamaMia
+Date added: 13 / 40 / 2020
+Mileage: 9998
+Checkout status: Checked in
+Contents:
+Unset!
+Insurance company: GuyCo
+Policy #: 555
+Date effective: 2 / 3 / 1012 Expires: 3 / 2 / 1000
+Car Make/Model: FordFusion Year: 2002
+-------------------------------------
+
+ID: 2332
+Purpose: Company
+Driver: Boi
+Date added: 2 / 2 / 2222
+Mileage: 3223
+Checkout status: Checked in
+Contents:
+Unset!
+Miles driven: 333
+Fuel cost: $ 21
+Purpose of trip: ugh
+-------------------------------------
