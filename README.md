@@ -1,4 +1,5 @@
 # VehicleDatabaseCppProject
+(best viewed in "Raw" mode)
 This is a CPP project I did before I learned SQL. 
 In other words, its got quite a bit more code than most of my other projects (and definitely was my biggest code project at the time). 
 But it works! There's a few "bugs" here and there, e.g. if you enter a date that hasn't happened yet, it won't stop you. 
@@ -11,6 +12,7 @@ I helped develop the program that would have a user input some data, and be able
 My main concern was getting the .txt file to look nice. This meant extra formatting.
 
 An example .txt output is as follows:
+---
 
 This is the log for the Vehicle Checkout Program.
 Total vehicles: 1
@@ -29,6 +31,7 @@ Fuel cost: $ 100
 Purpose of trip: BusinessMeeting
 -------------------------------------
 
+---
 Outputting the data was simple. Reading it in from this format was challenging but I ultimately figured out a solution.
 Essentially, all of the "fluff" text was read into the program as dummy text and only the essential information was saved to variables.
 
